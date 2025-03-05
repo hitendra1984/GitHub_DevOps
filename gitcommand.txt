@@ -11,3 +11,4 @@ git remote -v - to check the path of the git repo
 git remote set-url origin https://TOKEN@GitHubLink - To login or give access of your git account.
 git push origin master - To push your local files to GitHub
 
+For update new file follow the steps from step 1
