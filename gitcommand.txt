@@ -1,0 +1,13 @@
+git init - to initiliaze git
+git status - to check git status
+git add filename - to stage particular file
+git add . - to stage multiple files
+git commit -m "comment" - to commit/track git filename
+
+rm filename - to remove file
+git restore filename - to restore deleted file
+git remote add origin URL - to link live git account with local git
+git remote -v - to check the path of the git repo
+git remote set-url origin https://TOKEN@GitHubLink - To login or give access of your git account.
+git push origin master - To push your local files to GitHub
+
